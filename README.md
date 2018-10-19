@@ -5,11 +5,11 @@ For Linux. Tiny single file GTK micro app.
 
 ## Easy Installers
 
-Ubuntu / Debian: ---
+Ubuntu / Debian: [Here](https://github.com/gnat/internet-ip-gui-linux/blob/master/deb/lanpack.deb)
 
 ## Run from source
 
-...
+'./lanpack.py'
 
 ## License 
 
