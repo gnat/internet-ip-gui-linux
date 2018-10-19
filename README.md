@@ -1,9 +1,7 @@
-# Find Your Internet IP GUI
-Ideal for Internet gaming and LAN parties.
-
+# Find Your Internet IP
 Simple GUI to find both your Internet IP and your Local IP, in an easy to copy-paste format. For Linux. GTK 3 micro app.
 
-Built for you from the folks at http://LANPartyList.com
+Ideal for Internet gaming and LAN parties. Built for you from the folks at http://LANPartyList.com
 
 ## Easy Installers
 
