@@ -7,9 +7,9 @@ For Linux. Tiny single file GTK micro app.
 
 Ubuntu / Debian: <a href="https://github.com/gnat/internet-ip-gui-linux/raw/master/deb/lanpack.deb">lanpack.deb</a>
 
-## Run from source
+## Screenshot
 
-'./lanpack.py'
+<img src="https://github.com/gnat/internet-ip-gui-linux/raw/master/deb/screenshot.png" />
 
 ## License 
 
