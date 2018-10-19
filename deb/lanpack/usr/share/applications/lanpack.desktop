@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=LAN Party Pack
+Comment=LAN Party Pack
+Exec=/usr/bin/lanpack.py
+Icon=/usr/share/lanpack/lanpack.png
+Terminal=false
+Type=Application
+Categories=Game;GNOME;Application;Network
+StartupNotify=true
+

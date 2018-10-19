@@ -1,0 +1,7 @@
+Package: lanpack
+Version: 1.0
+Section: games
+Priority: optional
+Architecture: all
+Maintainer: Nathaniel Sabanski
+Description: LAN Party starter kit for Linux
